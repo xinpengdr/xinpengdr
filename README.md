@@ -14,4 +14,4 @@ Building AI-powered tools and content for cross-border e-commerce.
 #### Get in touch
 
 - Website: [vozai.net](https://www.vozai.net)
-- Email: xin@realmaster.cc
+- Email: xin.peng.dr@gmail.com
