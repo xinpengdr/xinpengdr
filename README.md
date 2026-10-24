@@ -9,7 +9,3 @@ Building AI-powered tools and content for cross-border e-commerce.
 #### Topics I write about
 
 `AI Search (GEO)` `Amazon Rufus` `Google AI Mode` `Meta Advantage+` `TikTok Shop` `Klaviyo` `E-Commerce SEO` `AI Ad Copy` `Open-Source LLM`
-
-#### Get in touch
-
-- Email: xin.peng.dr@gmail.com
